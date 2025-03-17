@@ -1,3 +1,62 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(253, 250, 250);
 }
+
+#Principal1{
+
+   padding: 0%;
+    height: 100%;
+    background-image: url('./principal1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+#menuSuperior{
+    
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content:end;
+
+}
+#menuSuperior li{
+   
+    margin-right: 40px;
+}
+#menuSuperior li a {
+    text-decoration: none;
+    color: #000;
+
+}
+.SobreMG{ 
+    background-color: burlywood;
+    border: 1px solid darkblue
+    justify-content: end;
+    display: inline-block;
+    word-wrap: break-word;
+    position:relative;
+    left: 72%;
+    font: size 20xp;
+    width: 180px;
+    padding: 10px;
+    height: 100px;
+    
+}
+.InformaçõesSobreMG{
+    display: inline-block;
+    word-wrap: break-word;
+    position:relative;
+    left: 75%;
+    font: size 20xp;
+    width: 180px;
+    padding: 10px;
+    height: 100px;
+}
+
+#Cidades img{
+    list-style-type:none;
+    width: 50%;
+    height: 5%;
+}
+    
