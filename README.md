@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rodrigo Henrique Soares Diniz
+- Matricula:1543400
+- Proposta de projeto escolhida: Turismo
+- Breve descrição sobre seu projeto: Meu objetivo foi pegar Minas Gerais como exemplo, citando algumas informações e fatos sobre Minas, coloquei em tópicos algumas Cidades,Cachoeiras e Museus , sendo elas uma das mais visitadas de Minas Gerais.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![alt text](public/esboço.jpg) ![alt text](public/esboço1.jpg) >>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](public/homepage.png)  >>

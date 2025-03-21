@@ -1,18 +1,13 @@
 body {
-    background-color: rgb(253, 250, 250);
+    background-color: rgb(255, 255, 255);
 }
 
-#Principal1{
 
-   padding: 0%;
-    height: 100%;
-    background-image: url('./principal1.jpeg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-}
 
-#menuSuperior{
+
+
+
+.menuSuperior{
     
     list-style-type: none;
     padding: 0;
@@ -20,17 +15,42 @@ body {
     justify-content:end;
 
 }
-#menuSuperior li{
+
+#Principal1{
+
+   padding: 0%;
+    height: 100%;
+    background-image: url('./principal1.jpeg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: aliceblue;
+}
+h1{
+    font-size: 60px;
+    font-style: italic;
+}
+.SobreMG{
+    font-size: 20px;
+}
+.InformaçõesSobreMG{
+    font-size: 20px;
+}
+
+
+
+.menuSuperior li{
    
     margin-right: 40px;
 }
-#menuSuperior li a {
+.menuSuperior li a {
     text-decoration: none;
     color: #000;
 
 }
 .SobreMG{ 
-    background-color: burlywood;
+    
     border: 1px solid darkblue
     justify-content: end;
     display: inline-block;
@@ -39,8 +59,8 @@ body {
     left: 72%;
     font: size 20xp;
     width: 180px;
-    padding: 10px;
-    height: 100px;
+    padding: 0px;
+    height: 90px;
     
 }
 .InformaçõesSobreMG{
@@ -54,9 +74,36 @@ body {
     height: 100px;
 }
 
-#Cidades img{
-    list-style-type:none;
-    width: 50%;
-    height: 5%;
+
+
+ul {
+  display: flex;
+  margin: 0px;
+    padding:5px;
+    list-style-type: none ;
 }
-    
+li{
+    margin-right: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    list-style-type: none ;
+}
+li img{
+    width: 70%;
+  
+}
+#Historia{
+
+    padding: 0%;
+     height: 150%;
+     
+     background-image: url('./Bandeirasmg.jpeg');
+     
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
+     color: rgb(7, 7, 7);
+ }
+ .img{
+    height: 300px;
+    width: 350px;
+ }
